@@ -1,6 +1,6 @@
 # Serendipity AI - Mental Health Concern Classification
 
-**Serendipity AI** is a comprehensive AI-powered journaling and mental health analysis tool designed to aid users in self-care, mental health tracking, and therapy support. Built with natural language processing (NLP) capabilities, Serendipity AI provides users and therapists with structured insights, emotion tracking, and personalized journaling approaches. This project was developed for **Megathon 2024** in collaboration with Mindpeers.
+**Serendipity AI** is a comprehensive AI-powered journaling and mental health analysis tool designed to aid users in self-care, mental health tracking, and therapy support. Built with natural language processing (NLP) capabilities, Serendipity AI provides users and therapists with structured insights, emotion tracking, and personalized journaling approaches. This project was developed for **Megathon 2024** for the problem provided by **Mindpeers**.
 
 ## Motivation and Objective
 
