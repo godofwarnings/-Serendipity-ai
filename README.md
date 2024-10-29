@@ -29,9 +29,9 @@ Serendipity AI aims to make mental health management accessible and user-friendl
 ## Underlying Pipeline
 
 The core Serendipity AI pipeline comprises:
-- **Key-Phrase Extraction**: Identifies symptoms and behaviors from journal entries, powered by Clinical BERT.
-- **Polarity Modeling**: Uses the VADER Sentiment Analysis tool for reliable, rule-based sentiment scoring.
-- **Concern Classification**: Classifies concerns using a fine-tuned RoBERTa_Large model for improved accuracy.
+- **Key-Phrase Extraction**: Identifies symptoms and behaviors from journal entries, powered by **Clinical BERT**.
+- **Polarity Modeling**: Uses the **VADER Sentiment Analysis tool** for reliable, rule-based sentiment scoring.
+- **Concern Classification**: Classifies concerns using a fine-tuned **RoBERTa_Large** model for improved accuracy.
 - **Time Series Analysis**: Visualizes emotional trends, supporting both user insights and therapist monitoring.
 
 ## Dataset
@@ -41,7 +41,7 @@ Serendipity AI is trained on a dataset derived from mental health-focused subred
 ## Installation
 
 ### Prerequisites
-- Python 3.x
+- Python >= 3.10
 - Install dependencies from `requirements.txt`
 
 ### Setup
